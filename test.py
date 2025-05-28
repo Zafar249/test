@@ -3,3 +3,5 @@ if test:
     print("Test successful")
 else:
     print("Test failed")
+
+print("Finished.")
