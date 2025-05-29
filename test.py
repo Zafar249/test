@@ -7,5 +7,5 @@ else:
     if test2:
         print("Second test successful")
     else:
-        print("Test failed")
+        print("Try the test again.")
 
